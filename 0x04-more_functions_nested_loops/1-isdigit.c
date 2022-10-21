@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * _isdigit - checks if a char is a digit
@@ -6,7 +6,7 @@
  * Returns: 1 if c isb a digit, 0 otherwise
  */
 
-int_isdigit(int c)
+int _isdigit(int c)
 {
 	int y = 0;
 
