@@ -6,7 +6,7 @@
  * Returns: 1 if c isb a digit, 0 otherwise
  */
 
-int _isdigit(int c)
+int_isdigit(int c)
 {
 	int y = 0;
 
